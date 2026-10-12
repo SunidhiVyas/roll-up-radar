@@ -1,0 +1,12 @@
+{
+  "description": "Shared contract: how industry labels are classified. Used by backend/tests/test_add_on_scoring.py (rank_add_ons) and frontend/src/lib/fitEngine.test.js (scoreIndustry). exact = identical after lower-casing and whitespace collapsing; similar = Indel ratio >= 80; different = anything else.",
+  "cases": [
+    { "platform": "HVAC", "candidate": "hvac", "expected": "exact" },
+    { "platform": "Home  Services", "candidate": "home services ", "expected": "exact" },
+    { "platform": "Home Services", "candidate": "Home Service", "expected": "similar" },
+    { "platform": "Landscaping", "candidate": "Landscape", "expected": "similar", "note": "ratio is exactly 80, the inclusive boundary" },
+    { "platform": "Plumbing", "candidate": "Plumbing Services", "expected": "different", "note": "ratio 64" },
+    { "platform": "HVAC", "candidate": "Dental", "expected": "different" },
+    { "platform": "Roofing", "candidate": "Electrical", "expected": "different" }
+  ]
+}

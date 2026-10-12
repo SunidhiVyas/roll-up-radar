@@ -1,0 +1,21 @@
+company_name,website,phone,address,industry,employees,revenue_estimate
+Lone Star Comfort Heating & Air,lonestarcomfort.example.com,(555) 100-1001,"100 Example Way, Austin, TX 78701",HVAC,42,5200000
+Lone Star Comfort Services LLC,lonestarcomfort.example.com,(555) 100-1002,"100 Example Wy, Austin, TX 78701",HVAC,18,1900000
+Prairie Wind Plumbing & Heating,prairiewind.example.org,(555) 100-2001,"220 Sample Street, Dallas, TX 75201",Plumbing,25,3100000
+Prairie Wind Mechanical,prairiewindmech.example.org,5551002001,"410 Test Avenue, Dallas, TX 75202",HVAC,12,1400000
+Prairie Wynd Plumbing & Heating Inc,,555-100-2002,"220 Sample St, Dallas, TX 75201",Plumbing,,900000
+Summit Ridge Air Solutions,summitridgeair.example.net,(555) 100-3001,"15 Demo Boulevard, Denver, CO 80202",HVAC,55,7800000
+Summit Ridge Air Solution LLC,summitridgeair-co.example.net,(555) 100-3002,"88 Fixture Road, Aurora, CO 80010",HVAC,20,2300000
+Summit Ridge Roofing Co,summitridgeroof.example.net,,"15 Demo Blvd, Denver, CO 80202",Roofing,30,3600000
+Evergreen Home Services,evergreenhome.example.com,(555) 100-4001,"700 Placeholder Lane, Seattle, WA 98101",Home Services,70,9500000
+Evergreen Home Svcs LLC,,555.100.4002,"700 Placeholder Ln, Seattle, Washington 98101",Home Services,8,
+Evergreen Electrical & HVAC,evergreenelec.example.com,(555) 100-4003,"702 Placeholder Lane, Seattle, WA 98101",HVAC,14,1700000
+Blue Harbor Dental Group,blueharbordental.example.com,(555) 100-5001,"12 Mockup Court, Portland, OR 97201",Dental,35,4200000
+Copperline Bakery & Cafe,copperlinebakery.example.org,(555) 100-5002,"9 Fiction Street, Boise, ID 83702",Food Service,16,950000
+Northgate Auto Repair,,5551005003,"301 Synthetic Drive, Phoenix, AZ 85001",Automotive,11,1250000
+Maple Leaf Landscaping,mapleleaflandscape.example.net,(555) 100-5004,,Landscaping,22,2100000
+Orbit Legal Partners,orbitlegal.example.com,,"45 Dummy Plaza, Chicago, IL 60601",Legal Services,9,
+Quiet Pines Pest Control,quietpinespest.example.org,(555) 100-5006,"600 Imaginary Road, Tampa, FL 33602",Pest Control,,1600000
+Atlas Peak Fitness,atlaspeakfit.example.net,(555) 100-5007,"77 Pretend Parkway, Nashville, TN 37201",Fitness,28,2700000
+Redwood Valley Heating & Cooling,redwoodvalleyhvac.example.com,(555) 100-6001,"5 Notreal Way, Sacramento, CA 95814",HVAC,48,6100000
+Horizon Pool & Spa Care,,,,Home Services,6,480000
